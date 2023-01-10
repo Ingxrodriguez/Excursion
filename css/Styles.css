@@ -10,7 +10,6 @@ body {
     font-size: 50px;
     color:white;
 }
-
 /* HEADINGS--SECUNDARY */
 .header--Secundary { 
     color:white; 
@@ -19,13 +18,13 @@ body {
 }
 /*SUB-HEADER*/
 .header--sub-header {
- color:gray;
- font-size: 21px;
+    color:gray;
+    font-size: 21px;
 }
 
 /* LINKS */
 .Link--cta {
     color:aqua;
-    font-size: 16;
+    font-size: 16px;
     
 }
